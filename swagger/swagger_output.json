@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "https://app-games-deploy.herokuapp.com/documentation/",
+  "host": "https://app-games-deploy.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "http"
